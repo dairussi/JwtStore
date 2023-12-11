@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Api", "JwtStore.Api\JwtStore.Api.csproj", "{27A4DD9F-807A-4C2F-A76B-AE3C0CDDE4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Core", "JwtStore.Core\JwtStore.Core.csproj", "{DAAA6855-60CB-40CB-A145-40DA960129AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Infra", "JwtStore.Infra\JwtStore.Infra.csproj", "{6F4C039B-946D-4DAC-BEC6-F62417C31415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A4DD9F-807A-4C2F-A76B-AE3C0CDDE4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A4DD9F-807A-4C2F-A76B-AE3C0CDDE4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A4DD9F-807A-4C2F-A76B-AE3C0CDDE4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A4DD9F-807A-4C2F-A76B-AE3C0CDDE4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAA6855-60CB-40CB-A145-40DA960129AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAA6855-60CB-40CB-A145-40DA960129AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAA6855-60CB-40CB-A145-40DA960129AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAA6855-60CB-40CB-A145-40DA960129AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4C039B-946D-4DAC-BEC6-F62417C31415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4C039B-946D-4DAC-BEC6-F62417C31415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4C039B-946D-4DAC-BEC6-F62417C31415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4C039B-946D-4DAC-BEC6-F62417C31415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
